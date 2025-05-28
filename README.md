@@ -29,7 +29,4 @@ e_voting/
 2. Jalankan file `main.py` dengan Python 3.
 3. Ikuti menu navigasi untuk menggunakan aplikasi.
 
-## Dibuat oleh:
-- [Nama Mahasiswa]
-- [NIM]
-- [Kelas]
+
